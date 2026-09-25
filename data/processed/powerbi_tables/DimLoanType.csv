@@ -1,0 +1,6 @@
+Loan_Type,Secured_Status,Collateral_Type,Base_Risk_Rating
+Home Loan,Secured,Real Estate,Low
+Auto Loan,Secured,Vehicle,Moderate
+Business Loan,Semi-Secured,Commercial Assets,Moderate-High
+Education Loan,Unsecured,None,Moderate
+Personal Loan,Unsecured,None,High

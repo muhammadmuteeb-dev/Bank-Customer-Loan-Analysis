@@ -1,0 +1,16 @@
+Branch_ID,Branch_Name,City,State,Region
+BR-001,NYC Metro Branch,New York,NY,Northeast
+BR-002,Boston Harbor Branch,Boston,MA,Northeast
+BR-003,Philadelphia Central Branch,Philadelphia,PA,Northeast
+BR-004,Chicago Loop Branch,Chicago,IL,Midwest
+BR-005,Detroit Downtown Branch,Detroit,MI,Midwest
+BR-006,Minneapolis Gateway Branch,Minneapolis,MN,Midwest
+BR-007,Atlanta Midtown Branch,Atlanta,GA,South
+BR-008,Dallas Commercial Branch,Dallas,TX,South
+BR-009,Charlotte Queen City Branch,Charlotte,NC,South
+BR-010,Miami Coastal Branch,Miami,FL,South
+BR-011,San Francisco Tech Branch,San Francisco,CA,West
+BR-012,Seattle Sound Branch,Seattle,WA,West
+BR-013,Denver Mile High Branch,Denver,CO,West
+BR-014,Phoenix Valley Branch,Phoenix,AZ,West
+BR-015,Los Angeles Metro Branch,Los Angeles,CA,West
