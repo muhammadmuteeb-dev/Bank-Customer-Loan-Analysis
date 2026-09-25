@@ -438,7 +438,7 @@ The project includes an enterprise-grade documentation and blueprint suite for P
 
 \# 1. Clone this repository
 
-git clone https\://github.com/muteebshafique.dev/Bank-Customer-Loan-Analysis.git
+git clone https\://github.com/muhammadmuteeb-dev/Bank-Customer-Loan-Analysis.git
 
 cd Bank-Customer-Loan-Analysis
 
